@@ -84,7 +84,7 @@
 }
 
 .bg-image{
-    background-image: url(images/Rotated-div.png);
+    background-image: url("images/Rotated-div.png");
     background-color: #191A19;
     background-size: cover;
     background-repeat: repeat-y;
@@ -306,7 +306,7 @@ body{
     padding: 10px 150px 0 100px;
 }
 .third-page{
-    background-image: url(images/Rotated-div.png);
+    background-image: url("images/Rotated-div.png");
     background-color:#191A19;
 }
 .rotated-div{
